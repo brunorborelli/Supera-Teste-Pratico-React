@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(230, 227, 227);
+    
+}
+main{
+    
+    background-size: cover ;
+}
+.divpai{
+    margin: auto;
+width: 60%;
+
+padding: 10px;
+}
+.tableddn{
+    
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  font-size: 25px;
+    
+}
+
+table{
+   
+        border-spacing: 10px;
+        border-collapse: collapse;
+}
+
+#saldoTotal{
+    padding-right: 5rem;
+    font-weight: lighter;
+}
+
+#saldoPeriodo{
+    font-weight: lighter;
+}
+      
+th{
+    border: solid rgb(226, 52, 52) 2px;
+    font-size: 25px;
+    
+}
+
+td{
+    border: solid rgb(226, 52, 52) 2px;
+    font-size: 25px;
+}
+
+
+.tableGeral{
+    
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.spanbutton{
+    
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+button{
+    margin: 15px;
+    margin-top: 2rem;
+    background-color: rgb(226, 52, 52);
+    padding: 1rem;
+    color: #ffffff;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    
+  
+  
+    
+    
+   
+}
+
+.button1{
+    margin-right: 4rem;
+}
+
+.button2{
+    margin-left: 4rem;
+}
+header{
+    
+    font-size: large;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    display: flex; 
+    border-bottom: solid rgb(226, 52, 52) 5px ;
+    
+}
+h1{
+    padding-top: 3rem;
+}
+img{
+   
+}
+
+
+
+
